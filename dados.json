@@ -1,2540 +1,362 @@
 [
     {
-        "id": "04lQgYWR1n",
-        "minute": 7,
-        "color": 2,
-        "roll": 12
-    },
-    {
-        "id": "zokg57e8ry",
-        "minute": 7,
-        "color": 1,
-        "roll": 4
-    },
-    {
-        "id": "YArwzOpglz",
-        "minute": 11,
-        "color": 0,
-        "roll": 0
-    },
-    {
-        "id": "pJ1oQ0ajld",
-        "minute": 11,
+        "id": "KRkbvK9ZkL",
+        "minute": 6,
         "color": 1,
         "roll": 3
     },
     {
-        "id": "KV16wPW2kB",
+        "id": "GR1pVgpRl5",
+        "minute": 6,
+        "color": 2,
+        "roll": 12
+    },
+    {
+        "id": "3elY58yWlL",
+        "minute": 7,
+        "color": 2,
+        "roll": 10
+    },
+    {
+        "id": "OWldgLEWk3",
+        "minute": 7,
+        "color": 2,
+        "roll": 14
+    },
+    {
+        "id": "AXlO0KB3rO",
+        "minute": 8,
+        "color": 1,
+        "roll": 6
+    },
+    {
+        "id": "M9rKLpB016",
+        "minute": 8,
+        "color": 2,
+        "roll": 10
+    },
+    {
+        "id": "WG17DbLWkZ",
+        "minute": 9,
+        "color": 2,
+        "roll": 12
+    },
+    {
+        "id": "BylL9YBLrG",
+        "minute": 9,
+        "color": 2,
+        "roll": 8
+    },
+    {
+        "id": "gM19DYNPrA",
+        "minute": 10,
+        "color": 2,
+        "roll": 8
+    },
+    {
+        "id": "xmlNLO3e1v",
+        "minute": 10,
+        "color": 1,
+        "roll": 3
+    },
+    {
+        "id": "EV1eg9P3lo",
         "minute": 12,
         "color": 1,
         "roll": 3
     },
     {
-        "id": "96rXwNn9lO",
+        "id": "Nz1xZgNdlp",
         "minute": 12,
-        "color": 2,
-        "roll": 12
-    },
-    {
-        "id": "mDlZKPynrj",
-        "minute": 13,
-        "color": 2,
-        "roll": 10
-    },
-    {
-        "id": "9YrJyDEJlK",
-        "minute": 13,
-        "color": 2,
-        "roll": 8
-    },
-    {
-        "id": "jxrMYAxprQ",
-        "minute": 14,
-        "color": 1,
-        "roll": 7
-    },
-    {
-        "id": "LKl3D9zbrN",
-        "minute": 14,
-        "color": 1,
-        "roll": 6
-    },
-    {
-        "id": "WplznLOKln",
-        "minute": 15,
-        "color": 1,
-        "roll": 4
-    },
-    {
-        "id": "yAlA6BpMrG",
-        "minute": 15,
-        "color": 1,
-        "roll": 4
-    },
-    {
-        "id": "3Ery87dRlj",
-        "minute": 16,
-        "color": 1,
-        "roll": 6
-    },
-    {
-        "id": "KRkbvpLNkL",
-        "minute": 16,
-        "color": 2,
-        "roll": 9
-    },
-    {
-        "id": "GR1pV8RLl5",
-        "minute": 17,
-        "color": 2,
-        "roll": 10
-    },
-    {
-        "id": "3elY5EWolL",
-        "minute": 17,
-        "color": 2,
-        "roll": 8
-    },
-    {
-        "id": "OWldgdMVk3",
-        "minute": 18,
-        "color": 1,
-        "roll": 4
-    },
-    {
-        "id": "AXlO0bL0rO",
-        "minute": 18,
-        "color": 2,
-        "roll": 11
-    },
-    {
-        "id": "M9rKLjdO16",
-        "minute": 19,
-        "color": 2,
-        "roll": 10
-    },
-    {
-        "id": "WG17DeP6kZ",
-        "minute": 19,
-        "color": 1,
-        "roll": 2
-    },
-    {
-        "id": "BylL93OorG",
-        "minute": 20,
-        "color": 2,
-        "roll": 10
-    },
-    {
-        "id": "gM19D0xvrA",
-        "minute": 20,
         "color": 1,
         "roll": 3
     },
     {
-        "id": "xmlNLy7m1v",
-        "minute": 21,
-        "color": 1,
-        "roll": 6
-    },
-    {
-        "id": "7dlEADvOlv",
-        "minute": 21,
-        "color": 1,
-        "roll": 2
-    },
-    {
-        "id": "QqlPop9dkz",
-        "minute": 22,
-        "color": 2,
-        "roll": 9
-    },
-    {
-        "id": "EV1egOMJlo",
-        "minute": 22,
-        "color": 2,
-        "roll": 11
-    },
-    {
-        "id": "Nz1xZKMAlp",
-        "minute": 23,
-        "color": 2,
-        "roll": 14
-    },
-    {
-        "id": "V5k0JKOjrY",
-        "minute": 23,
-        "color": 2,
-        "roll": 9
-    },
-    {
-        "id": "vRl8oxedkK",
-        "minute": 24,
-        "color": 1,
-        "roll": 3
-    },
-    {
-        "id": "3V1qXAMqrB",
-        "minute": 24,
+        "id": "V5k0JnbDrY",
+        "minute": 13,
         "color": 1,
         "roll": 7
     },
     {
-        "id": "MerW5980kX",
-        "minute": 25,
+        "id": "vRl8op9JkK",
+        "minute": 13,
+        "color": 1,
+        "roll": 1
+    },
+    {
+        "id": "3V1qXgYnrB",
+        "minute": 14,
+        "color": 1,
+        "roll": 4
+    },
+    {
+        "id": "MerW5xBbkX",
+        "minute": 14,
+        "color": 1,
+        "roll": 1
+    },
+    {
+        "id": "N8r2X59qkb",
+        "minute": 15,
+        "color": 2,
+        "roll": 11
+    },
+    {
+        "id": "Y8kGgq6bkZ",
+        "minute": 15,
+        "color": 2,
+        "roll": 8
+    },
+    {
+        "id": "DV1azO6zke",
+        "minute": 16,
+        "color": 1,
+        "roll": 4
+    },
+    {
+        "id": "JblRg9varO",
+        "minute": 16,
+        "color": 1,
+        "roll": 7
+    },
+    {
+        "id": "AKl5XAPGk9",
+        "minute": 17,
         "color": 2,
         "roll": 9
     },
     {
-        "id": "N8r2XL7mkb",
-        "minute": 25,
-        "color": 1,
-        "roll": 6
-    },
-    {
-        "id": "Y8kGgDyQkZ",
-        "minute": 26,
+        "id": "O2l4PMEgln",
+        "minute": 17,
         "color": 2,
         "roll": 13
     },
     {
-        "id": "DV1azbvbke",
+        "id": "8Lkn0g4Zr3",
+        "minute": 18,
+        "color": 0,
+        "roll": 0
+    },
+    {
+        "id": "eRlvng58lj",
+        "minute": 18,
+        "color": 2,
+        "roll": 12
+    },
+    {
+        "id": "04lQgLvb1n",
+        "minute": 19,
+        "color": 2,
+        "roll": 9
+    },
+    {
+        "id": "zokg5ERnry",
+        "minute": 19,
+        "color": 1,
+        "roll": 6
+    },
+    {
+        "id": "4J1mgq54lj",
+        "minute": 20,
+        "color": 2,
+        "roll": 9
+    },
+    {
+        "id": "Jw1D7xv8rE",
+        "minute": 20,
+        "color": 1,
+        "roll": 6
+    },
+    {
+        "id": "o5rVmeRxlK",
+        "minute": 21,
+        "color": 2,
+        "roll": 10
+    },
+    {
+        "id": "2O1BQPvnrK",
+        "minute": 21,
+        "color": 1,
+        "roll": 7
+    },
+    {
+        "id": "4ekjgx5wl9",
+        "minute": 22,
+        "color": 1,
+        "roll": 6
+    },
+    {
+        "id": "YArwzD5Xlz",
+        "minute": 22,
+        "color": 1,
+        "roll": 6
+    },
+    {
+        "id": "pJ1oQgXxld",
+        "minute": 23,
+        "color": 1,
+        "roll": 1
+    },
+    {
+        "id": "KV16wyevkB",
+        "minute": 23,
+        "color": 1,
+        "roll": 3
+    },
+    {
+        "id": "96rXw0RNlO",
+        "minute": 24,
+        "color": 2,
+        "roll": 8
+    },
+    {
+        "id": "LKl3D5NNrN",
+        "minute": 26,
+        "color": 1,
+        "roll": 2
+    },
+    {
+        "id": "WplznoQxln",
         "minute": 26,
         "color": 2,
         "roll": 12
     },
     {
-        "id": "JblRgdE9rO",
+        "id": "yAlA6EvKrG",
         "minute": 27,
         "color": 1,
-        "roll": 7
+        "roll": 6
     },
     {
-        "id": "AKl5XEN3k9",
+        "id": "3Ery8gJ6lj",
         "minute": 27,
-        "color": 0,
-        "roll": 0
+        "color": 1,
+        "roll": 4
     },
     {
-        "id": "O2l4PN9Oln",
+        "id": "KRkbvKRZkL",
         "minute": 28,
-        "color": 2,
-        "roll": 12
-    },
-    {
-        "id": "8Lkn0xM4r3",
-        "minute": 28,
-        "color": 2,
-        "roll": 13
-    },
-    {
-        "id": "eRlvndMNlj",
-        "minute": 29,
-        "color": 2,
-        "roll": 12
-    },
-    {
-        "id": "04lQgYNR1n",
-        "minute": 29,
-        "color": 1,
-        "roll": 4
-    },
-    {
-        "id": "zokg57M8ry",
-        "minute": 30,
-        "color": 1,
-        "roll": 4
-    },
-    {
-        "id": "4J1mgeMKlj",
-        "minute": 30,
-        "color": 2,
-        "roll": 10
-    },
-    {
-        "id": "vRl8ox7VkK",
-        "minute": 14,
-        "color": 2,
-        "roll": 9
-    },
-    {
-        "id": "3V1qXAdzrB",
-        "minute": 14,
-        "color": 1,
-        "roll": 4
-    },
-    {
-        "id": "MerW59j4kX",
-        "minute": 15,
-        "color": 2,
-        "roll": 11
-    },
-    {
-        "id": "N8r2XLb7kb",
-        "minute": 15,
-        "color": 0,
-        "roll": 0
-    },
-    {
-        "id": "Y8kGgDRWkZ",
-        "minute": 16,
-        "color": 2,
-        "roll": 8
-    },
-    {
-        "id": "DV1azbjjke",
-        "minute": 16,
-        "color": 2,
-        "roll": 11
-    },
-    {
-        "id": "JblRgdjRrO",
-        "minute": 17,
-        "color": 2,
-        "roll": 14
-    },
-    {
-        "id": "AKl5XEd8k9",
-        "minute": 17,
         "color": 1,
         "roll": 5
     },
     {
-        "id": "O2l4PNYzln",
-        "minute": 18,
-        "color": 2,
-        "roll": 11
-    },
-    {
-        "id": "8Lkn0xbVr3",
-        "minute": 18,
-        "color": 2,
-        "roll": 8
-    },
-    {
-        "id": "eRlvnd9Wlj",
-        "minute": 19,
-        "color": 2,
-        "roll": 13
-    },
-    {
-        "id": "04lQgYjJ1n",
-        "minute": 19,
-        "color": 1,
-        "roll": 1
-    },
-    {
-        "id": "zokg57zgry",
-        "minute": 20,
-        "color": 1,
-        "roll": 3
-    },
-    {
-        "id": "4J1mgey3lj",
-        "minute": 20,
-        "color": 1,
-        "roll": 4
-    },
-    {
-        "id": "Jw1D762DrE",
-        "minute": 21,
-        "color": 2,
-        "roll": 13
-    },
-    {
-        "id": "o5rVmLj3lK",
-        "minute": 21,
-        "color": 1,
-        "roll": 2
-    },
-    {
-        "id": "2O1BQDqLrK",
-        "minute": 22,
-        "color": 1,
-        "roll": 1
-    },
-    {
-        "id": "4ekjgNjWl9",
-        "minute": 22,
-        "color": 2,
-        "roll": 12
-    },
-    {
-        "id": "YArwzONRlz",
-        "minute": 23,
-        "color": 2,
-        "roll": 13
-    },
-    {
-        "id": "pJ1oQ0Gmld",
-        "minute": 23,
-        "color": 2,
-        "roll": 9
-    },
-    {
-        "id": "KV16wPnGkB",
-        "minute": 24,
-        "color": 2,
-        "roll": 10
-    },
-    {
-        "id": "96rXwNgwlO",
-        "minute": 24,
-        "color": 1,
-        "roll": 1
-    },
-    {
-        "id": "mDlZKPAgrj",
-        "minute": 25,
-        "color": 0,
-        "roll": 0
-    },
-    {
-        "id": "9YrJyDxZlK",
-        "minute": 25,
-        "color": 1,
-        "roll": 7
-    },
-    {
-        "id": "jxrMYAq8rQ",
-        "minute": 26,
-        "color": 0,
-        "roll": 0
-    },
-    {
-        "id": "LKl3D9RMrN",
-        "minute": 26,
-        "color": 2,
-        "roll": 11
-    },
-    {
-        "id": "WplznLymln",
-        "minute": 27,
-        "color": 1,
-        "roll": 3
-    },
-    {
-        "id": "yAlA6BObrG",
-        "minute": 27,
-        "color": 2,
-        "roll": 9
-    },
-    {
-        "id": "3Ery87Awlj",
+        "id": "GR1pVg5Rl5",
         "minute": 28,
-        "color": 2,
-        "roll": 8
-    },
-    {
-        "id": "KRkbvp7JkL",
-        "minute": 28,
-        "color": 2,
-        "roll": 13
-    },
-    {
-        "id": "GR1pV8aGl5",
-        "minute": 29,
-        "color": 2,
-        "roll": 8
-    },
-    {
-        "id": "3elY5Em6lL",
-        "minute": 29,
-        "color": 1,
-        "roll": 6
-    },
-    {
-        "id": "OWldgd9Dk3",
-        "minute": 30,
-        "color": 2,
-        "roll": 12
-    },
-    {
-        "id": "AXlO0b27rO",
-        "minute": 30,
-        "color": 1,
-        "roll": 7
-    },
-    {
-        "id": "M9rKLj0216",
-        "minute": 31,
-        "color": 2,
-        "roll": 11
-    },
-    {
-        "id": "WG17DevmkZ",
-        "minute": 31,
-        "color": 0,
-        "roll": 0
-    },
-    {
-        "id": "BylL938mrG",
-        "minute": 32,
-        "color": 1,
-        "roll": 2
-    },
-    {
-        "id": "gM19D0g0rA",
-        "minute": 32,
-        "color": 1,
-        "roll": 4
-    },
-    {
-        "id": "xmlNLyWO1v",
-        "minute": 33,
-        "color": 2,
-        "roll": 12
-    },
-    {
-        "id": "yAlA6BOArG",
-        "minute": 33,
-        "color": 1,
-        "roll": 3
-    },
-    {
-        "id": "3Ery87AElj",
-        "minute": 34,
-        "color": 1,
-        "roll": 3
-    },
-    {
-        "id": "KRkbvp7RkL",
-        "minute": 34,
         "color": 1,
         "roll": 5
     },
     {
-        "id": "GR1pV8adl5",
+        "id": "M9rKLp3016",
+        "minute": 30,
+        "color": 1,
+        "roll": 5
+    },
+    {
+        "id": "WG17DbxWkZ",
+        "minute": 31,
+        "color": 1,
+        "roll": 6
+    },
+    {
+        "id": "BylL9YXLrG",
+        "minute": 31,
+        "color": 1,
+        "roll": 1
+    },
+    {
+        "id": "gM19DY8PrA",
+        "minute": 32,
+        "color": 2,
+        "roll": 8
+    },
+    {
+        "id": "xmlNLOze1v",
+        "minute": 32,
+        "color": 2,
+        "roll": 13
+    },
+    {
+        "id": "7dlEA0QJlv",
+        "minute": 33,
+        "color": 2,
+        "roll": 10
+    },
+    {
+        "id": "QqlPo7vOkz",
+        "minute": 33,
+        "color": 2,
+        "roll": 13
+    },
+    {
+        "id": "EV1eg9z3lo",
+        "minute": 34,
+        "color": 1,
+        "roll": 2
+    },
+    {
+        "id": "Nz1xZg5dlp",
+        "minute": 34,
+        "color": 1,
+        "roll": 1
+    },
+    {
+        "id": "V5k0Jn7DrY",
         "minute": 35,
-        "color": 1,
-        "roll": 6
+        "color": 0,
+        "roll": 0
     },
     {
-        "id": "3elY5EmKlL",
+        "id": "vRl8op0JkK",
         "minute": 35,
         "color": 1,
         "roll": 5
     },
     {
-        "id": "OWldgd9ek3",
+        "id": "MerW5xwbkX",
         "minute": 36,
-        "color": 1,
-        "roll": 4
+        "color": 2,
+        "roll": 14
     },
     {
-        "id": "AXlO0b2ZrO",
-        "minute": 36,
-        "color": 1,
-        "roll": 6
+        "id": "N8r2X5Eqkb",
+        "minute": 37,
+        "color": 2,
+        "roll": 8
     },
     {
-        "id": "M9rKLj0P16",
+        "id": "Y8kGgq4bkZ",
         "minute": 37,
         "color": 1,
-        "roll": 6
+        "roll": 3
     },
     {
-        "id": "WG17DevPkZ",
-        "minute": 37,
-        "color": 1,
-        "roll": 4
-    },
-    {
-        "id": "BylL9385rG",
+        "id": "DV1azOPzke",
         "minute": 38,
-        "color": 2,
-        "roll": 14
-    },
-    {
-        "id": "gM19D0gLrA",
-        "minute": 38,
-        "color": 0,
-        "roll": 0
-    },
-    {
-        "id": "xmlNLyWW1v",
-        "minute": 39,
-        "color": 2,
-        "roll": 11
-    },
-    {
-        "id": "7dlEAD9ylv",
-        "minute": 39,
-        "color": 2,
-        "roll": 10
-    },
-    {
-        "id": "QqlPopGPkz",
-        "minute": 40,
-        "color": 1,
-        "roll": 3
-    },
-    {
-        "id": "EV1egONRlo",
-        "minute": 40,
-        "color": 2,
-        "roll": 13
-    },
-    {
-        "id": "Nz1xZKmGlp",
-        "minute": 41,
-        "color": 1,
-        "roll": 7
-    },
-    {
-        "id": "V5k0JK2vrY",
-        "minute": 41,
-        "color": 1,
-        "roll": 3
-    },
-    {
-        "id": "vRl8oxQMkK",
-        "minute": 42,
-        "color": 1,
-        "roll": 3
-    },
-    {
-        "id": "3V1qXAR3rB",
-        "minute": 42,
-        "color": 2,
-        "roll": 10
-    },
-    {
-        "id": "MerW59QNkX",
-        "minute": 43,
-        "color": 1,
-        "roll": 2
-    },
-    {
-        "id": "N8r2XLaBkb",
-        "minute": 43,
-        "color": 2,
-        "roll": 12
-    },
-    {
-        "id": "Y8kGgDEekZ",
-        "minute": 44,
-        "color": 2,
-        "roll": 14
-    },
-    {
-        "id": "DV1azbK9ke",
-        "minute": 44,
-        "color": 1,
-        "roll": 3
-    },
-    {
-        "id": "JblRgdRwrO",
-        "minute": 45,
         "color": 1,
         "roll": 1
     },
     {
-        "id": "AKl5XE8vk9",
-        "minute": 45,
-        "color": 2,
-        "roll": 8
-    },
-    {
-        "id": "O2l4PN0Gln",
-        "minute": 46,
-        "color": 2,
-        "roll": 13
-    },
-    {
-        "id": "8Lkn0xB0r3",
-        "minute": 46,
-        "color": 2,
-        "roll": 10
-    },
-    {
-        "id": "eRlvndBalj",
-        "minute": 47,
-        "color": 1,
-        "roll": 6
-    },
-    {
-        "id": "04lQgYP61n",
-        "minute": 47,
-        "color": 2,
-        "roll": 12
-    },
-    {
-        "id": "zokg57BLry",
-        "minute": 48,
-        "color": 2,
-        "roll": 14
-    },
-    {
-        "id": "4J1mgeZxlj",
-        "minute": 48,
-        "color": 1,
-        "roll": 1
-    },
-    {
-        "id": "Jw1D76APrE",
-        "minute": 49,
-        "color": 1,
-        "roll": 2
-    },
-    {
-        "id": "o5rVmLqKlK",
-        "minute": 49,
-        "color": 2,
-        "roll": 13
-    },
-    {
-        "id": "2O1BQDmArK",
-        "minute": 50,
-        "color": 2,
-        "roll": 10
-    },
-    {
-        "id": "4ekjgNBzl9",
-        "minute": 50,
-        "color": 1,
-        "roll": 5
-    },
-    {
-        "id": "YArwzOBQlz",
-        "minute": 51,
-        "color": 1,
-        "roll": 2
-    },
-    {
-        "id": "pJ1oQ0j8ld",
-        "minute": 51,
-        "color": 0,
-        "roll": 0
-    },
-    {
-        "id": "KV16wPqpkB",
-        "minute": 52,
-        "color": 2,
-        "roll": 12
-    },
-    {
-        "id": "96rXwN2VlO",
-        "minute": 52,
-        "color": 2,
-        "roll": 11
-    },
-    {
-        "id": "mDlZKPa6rj",
-        "minute": 53,
-        "color": 2,
-        "roll": 14
-    },
-    {
-        "id": "9YrJyDOwlK",
-        "minute": 53,
-        "color": 1,
-        "roll": 5
-    },
-    {
-        "id": "jxrMYALXrQ",
-        "minute": 54,
-        "color": 2,
-        "roll": 13
-    },
-    {
-        "id": "LKl3D9x9rN",
-        "minute": 54,
-        "color": 1,
-        "roll": 6
-    },
-    {
-        "id": "WplznLBoln",
-        "minute": 55,
-        "color": 2,
-        "roll": 9
-    },
-    {
-        "id": "yAlA6BgArG",
-        "minute": 55,
-        "color": 1,
-        "roll": 7
-    },
-    {
-        "id": "3Ery87BElj",
-        "minute": 56,
-        "color": 1,
-        "roll": 2
-    },
-    {
-        "id": "KRkbvpmRkL",
-        "minute": 56,
-        "color": 1,
-        "roll": 5
-    },
-    {
-        "id": "GR1pV8Bdl5",
-        "minute": 57,
-        "color": 2,
-        "roll": 13
-    },
-    {
-        "id": "3elY5EGKlL",
-        "minute": 57,
-        "color": 2,
-        "roll": 12
-    },
-    {
-        "id": "OWldgdBek3",
-        "minute": 58,
-        "color": 2,
-        "roll": 14
-    },
-    {
-        "id": "AXlO0bNZrO",
-        "minute": 58,
-        "color": 1,
-        "roll": 2
-    },
-    {
-        "id": "M9rKLjKP16",
-        "minute": 59,
-        "color": 1,
-        "roll": 2
-    },
-    {
-        "id": "WG17DeWPkZ",
-        "minute": 59,
-        "color": 1,
-        "roll": 1
-    },
-    {
-        "id": "BylL9375rG",
-        "minute": 0,
-        "color": 2,
-        "roll": 10
-    },
-    {
-        "id": "gM19D0GLrA",
-        "minute": 0,
-        "color": 1,
-        "roll": 7
-    },
-    {
-        "id": "xmlNLy9W1v",
-        "minute": 1,
-        "color": 1,
-        "roll": 3
-    },
-    {
-        "id": "7dlEADyylv",
-        "minute": 1,
-        "color": 1,
-        "roll": 4
-    },
-    {
-        "id": "QqlPopEPkz",
-        "minute": 2,
-        "color": 2,
-        "roll": 9
-    },
-    {
-        "id": "EV1egOBRlo",
-        "minute": 2,
-        "color": 2,
-        "roll": 13
-    },
-    {
-        "id": "Nz1xZKXGlp",
-        "minute": 3,
-        "color": 1,
-        "roll": 2
-    },
-    {
-        "id": "V5k0JKEvrY",
-        "minute": 3,
-        "color": 2,
-        "roll": 8
-    },
-    {
-        "id": "vRl8ox2MkK",
-        "minute": 4,
-        "color": 2,
-        "roll": 12
-    },
-    {
-        "id": "3V1qXAB3rB",
-        "minute": 4,
-        "color": 2,
-        "roll": 12
-    },
-    {
-        "id": "MerW59WNkX",
-        "minute": 5,
-        "color": 1,
-        "roll": 5
-    },
-    {
-        "id": "N8r2XLzBkb",
-        "minute": 5,
-        "color": 1,
-        "roll": 4
-    },
-    {
-        "id": "Y8kGgDpekZ",
-        "minute": 6,
-        "color": 1,
-        "roll": 5
-    },
-    {
-        "id": "DV1azbg9ke",
-        "minute": 6,
-        "color": 2,
-        "roll": 11
-    },
-    {
-        "id": "JblRgdewrO",
-        "minute": 7,
-        "color": 2,
-        "roll": 13
-    },
-    {
-        "id": "AKl5XEWvk9",
-        "minute": 7,
-        "color": 2,
-        "roll": 13
-    },
-    {
-        "id": "O2l4PNzGln",
-        "minute": 8,
-        "color": 1,
-        "roll": 6
-    },
-    {
-        "id": "8Lkn0x90r3",
-        "minute": 8,
-        "color": 2,
-        "roll": 14
-    },
-    {
-        "id": "eRlvndqalj",
-        "minute": 9,
-        "color": 2,
-        "roll": 12
-    },
-    {
-        "id": "04lQgYe61n",
-        "minute": 9,
-        "color": 1,
-        "roll": 7
-    },
-    {
-        "id": "zokg57pLry",
-        "minute": 10,
-        "color": 2,
-        "roll": 10
-    },
-    {
-        "id": "4J1mgeLxlj",
-        "minute": 10,
-        "color": 2,
-        "roll": 12
-    },
-    {
-        "id": "Jw1D76yPrE",
-        "minute": 11,
-        "color": 2,
-        "roll": 10
-    },
-    {
-        "id": "o5rVmLWKlK",
-        "minute": 11,
-        "color": 1,
-        "roll": 5
-    },
-    {
-        "id": "2O1BQDVArK",
-        "minute": 12,
-        "color": 1,
-        "roll": 5
-    },
-    {
-        "id": "4ekjgNOzl9",
-        "minute": 12,
-        "color": 1,
-        "roll": 6
-    },
-    {
-        "id": "YArwzOWQlz",
-        "minute": 13,
-        "color": 2,
-        "roll": 13
-    },
-    {
-        "id": "pJ1oQ0N8ld",
-        "minute": 13,
-        "color": 2,
-        "roll": 14
-    },
-    {
-        "id": "KV16wP2pkB",
-        "minute": 14,
-        "color": 1,
-        "roll": 5
-    },
-    {
-        "id": "96rXwNGVlO",
-        "minute": 14,
-        "color": 2,
-        "roll": 13
-    },
-    {
-        "id": "mDlZKPR6rj",
-        "minute": 15,
-        "color": 2,
-        "roll": 14
-    },
-    {
-        "id": "9YrJyDKwlK",
-        "minute": 15,
-        "color": 1,
-        "roll": 5
-    },
-    {
-        "id": "jxrMYA9XrQ",
-        "minute": 16,
-        "color": 1,
-        "roll": 5
-    },
-    {
-        "id": "LKl3D989rN",
-        "minute": 16,
-        "color": 1,
-        "roll": 1
-    },
-    {
-        "id": "WplznLaoln",
-        "minute": 17,
-        "color": 0,
-        "roll": 0
-    },
-    {
-        "id": "yAlA6BDArG",
-        "minute": 17,
-        "color": 1,
-        "roll": 1
-    },
-    {
-        "id": "3Ery87GElj",
-        "minute": 18,
-        "color": 2,
-        "roll": 12
-    },
-    {
-        "id": "KRkbvpDRkL",
-        "minute": 18,
-        "color": 1,
-        "roll": 7
-    },
-    {
-        "id": "GR1pV8Edl5",
-        "minute": 19,
-        "color": 2,
-        "roll": 11
-    },
-    {
-        "id": "3elY5EaKlL",
-        "minute": 19,
-        "color": 2,
-        "roll": 9
-    },
-    {
-        "id": "OWldgdAek3",
-        "minute": 20,
-        "color": 1,
-        "roll": 3
-    },
-    {
-        "id": "AXlO0bEZrO",
-        "minute": 20,
-        "color": 0,
-        "roll": 0
-    },
-    {
-        "id": "M9rKLj7P16",
-        "minute": 21,
-        "color": 2,
-        "roll": 13
-    },
-    {
-        "id": "WG17DeGPkZ",
-        "minute": 21,
-        "color": 1,
-        "roll": 7
-    },
-    {
-        "id": "BylL93L5rG",
-        "minute": 22,
-        "color": 2,
-        "roll": 14
-    },
-    {
-        "id": "gM19D0RLrA",
-        "minute": 22,
-        "color": 0,
-        "roll": 0
-    },
-    {
-        "id": "xmlNLyNW1v",
-        "minute": 23,
-        "color": 1,
-        "roll": 5
-    },
-    {
-        "id": "yAlA6BDgrG",
-        "minute": 23,
-        "color": 1,
-        "roll": 3
-    },
-    {
-        "id": "3Ery87GGlj",
-        "minute": 24,
-        "color": 2,
-        "roll": 13
-    },
-    {
-        "id": "KRkbvpD2kL",
-        "minute": 24,
-        "color": 1,
-        "roll": 4
-    },
-    {
-        "id": "GR1pV8EPl5",
-        "minute": 25,
-        "color": 2,
-        "roll": 10
-    },
-    {
-        "id": "3elY5EaJlL",
-        "minute": 25,
-        "color": 1,
-        "roll": 1
-    },
-    {
-        "id": "OWldgdAnk3",
-        "minute": 26,
-        "color": 2,
-        "roll": 9
-    },
-    {
-        "id": "AXlO0bEmrO",
-        "minute": 26,
-        "color": 1,
-        "roll": 3
-    },
-    {
-        "id": "M9rKLj7X16",
-        "minute": 27,
-        "color": 2,
-        "roll": 14
-    },
-    {
-        "id": "WG17DeGXkZ",
-        "minute": 27,
-        "color": 1,
-        "roll": 7
-    },
-    {
-        "id": "BylL93LWrG",
-        "minute": 28,
-        "color": 2,
-        "roll": 14
-    },
-    {
-        "id": "gM19D0RErA",
-        "minute": 28,
-        "color": 2,
-        "roll": 8
-    },
-    {
-        "id": "xmlNLyNv1v",
-        "minute": 29,
-        "color": 1,
-        "roll": 7
-    },
-    {
-        "id": "7dlEAD4Rlv",
-        "minute": 29,
-        "color": 2,
-        "roll": 11
-    },
-    {
-        "id": "QqlPopbekz",
-        "minute": 30,
-        "color": 2,
-        "roll": 13
-    },
-    {
-        "id": "EV1egORglo",
-        "minute": 30,
-        "color": 1,
-        "roll": 2
-    },
-    {
-        "id": "Nz1xZK7Olp",
-        "minute": 31,
-        "color": 1,
-        "roll": 4
-    },
-    {
-        "id": "V5k0JKYGrY",
-        "minute": 31,
-        "color": 1,
-        "roll": 1
-    },
-    {
-        "id": "vRl8oxEgkK",
-        "minute": 32,
-        "color": 2,
-        "roll": 9
-    },
-    {
-        "id": "3V1qXAyarB",
-        "minute": 32,
-        "color": 2,
-        "roll": 14
-    },
-    {
-        "id": "MerW59LekX",
-        "minute": 33,
-        "color": 0,
-        "roll": 0
-    },
-    {
-        "id": "N8r2XLODkb",
-        "minute": 33,
-        "color": 2,
-        "roll": 10
-    },
-    {
-        "id": "Y8kGgDvdkZ",
-        "minute": 34,
-        "color": 2,
-        "roll": 8
-    },
-    {
-        "id": "DV1azbWMke",
-        "minute": 34,
-        "color": 1,
-        "roll": 7
-    },
-    {
-        "id": "JblRgdYnrO",
-        "minute": 35,
-        "color": 0,
-        "roll": 0
-    },
-    {
-        "id": "AKl5XELjk9",
-        "minute": 35,
-        "color": 1,
-        "roll": 7
-    },
-    {
-        "id": "O2l4PN7yln",
-        "minute": 36,
-        "color": 1,
-        "roll": 4
-    },
-    {
-        "id": "8Lkn0xVwr3",
-        "minute": 36,
-        "color": 2,
-        "roll": 13
-    },
-    {
-        "id": "eRlvndOwlj",
-        "minute": 37,
-        "color": 1,
-        "roll": 6
-    },
-    {
-        "id": "2O1BQDa2rK",
-        "minute": 40,
-        "color": 1,
-        "roll": 3
-    },
-    {
-        "id": "4ekjgNQ5l9",
-        "minute": 40,
-        "color": 1,
-        "roll": 1
-    },
-    {
-        "id": "YArwzOKElz",
-        "minute": 41,
-        "color": 2,
-        "roll": 13
-    },
-    {
-        "id": "pJ1oQ0Bdld",
-        "minute": 41,
-        "color": 2,
-        "roll": 11
-    },
-    {
-        "id": "KV16wP9VkB",
-        "minute": 42,
-        "color": 2,
-        "roll": 8
-    },
-    {
-        "id": "96rXwN9ZlO",
-        "minute": 42,
-        "color": 2,
-        "roll": 10
-    },
-    {
-        "id": "mDlZKPEyrj",
-        "minute": 43,
-        "color": 1,
-        "roll": 2
-    },
-    {
-        "id": "9YrJyDmYlK",
-        "minute": 43,
-        "color": 2,
-        "roll": 14
-    },
-    {
-        "id": "jxrMYABzrQ",
-        "minute": 44,
-        "color": 2,
-        "roll": 13
-    },
-    {
-        "id": "LKl3D9KprN",
-        "minute": 44,
-        "color": 2,
-        "roll": 9
-    },
-    {
-        "id": "WplznL9yln",
-        "minute": 45,
-        "color": 2,
-        "roll": 11
-    },
-    {
-        "id": "yAlA6BGgrG",
-        "minute": 45,
-        "color": 2,
-        "roll": 13
-    },
-    {
-        "id": "3Ery87LGlj",
-        "minute": 46,
-        "color": 2,
-        "roll": 14
-    },
-    {
-        "id": "KRkbvp22kL",
-        "minute": 46,
-        "color": 0,
-        "roll": 0
-    },
-    {
-        "id": "GR1pV8APl5",
-        "minute": 47,
-        "color": 1,
-        "roll": 5
-    },
-    {
-        "id": "3elY5ENJlL",
-        "minute": 47,
-        "color": 2,
-        "roll": 10
-    },
-    {
-        "id": "OWldgdank3",
-        "minute": 48,
-        "color": 1,
-        "roll": 4
-    },
-    {
-        "id": "AXlO0bymrO",
-        "minute": 48,
-        "color": 2,
-        "roll": 13
-    },
-    {
-        "id": "M9rKLjDX16",
-        "minute": 49,
-        "color": 2,
-        "roll": 12
-    },
-    {
-        "id": "WG17DeNXkZ",
-        "minute": 49,
-        "color": 2,
-        "roll": 13
-    },
-    {
-        "id": "BylL93VWrG",
-        "minute": 50,
-        "color": 2,
-        "roll": 8
-    },
-    {
-        "id": "gM19D0PErA",
-        "minute": 50,
-        "color": 2,
-        "roll": 13
-    },
-    {
-        "id": "xmlNLyAv1v",
-        "minute": 51,
-        "color": 1,
-        "roll": 7
-    },
-    {
-        "id": "7dlEADdRlv",
-        "minute": 51,
-        "color": 1,
-        "roll": 6
-    },
-    {
-        "id": "QqlPop0ekz",
-        "minute": 52,
-        "color": 1,
-        "roll": 1
-    },
-    {
-        "id": "EV1egObglo",
-        "minute": 52,
-        "color": 1,
-        "roll": 3
-    },
-    {
-        "id": "Nz1xZKGOlp",
-        "minute": 53,
-        "color": 1,
-        "roll": 7
-    },
-    {
-        "id": "V5k0JKWGrY",
-        "minute": 53,
-        "color": 0,
-        "roll": 0
-    },
-    {
-        "id": "vRl8oxvgkK",
-        "minute": 54,
-        "color": 0,
-        "roll": 0
-    },
-    {
-        "id": "3V1qXAearB",
-        "minute": 54,
-        "color": 2,
-        "roll": 12
-    },
-    {
-        "id": "MerW59RekX",
-        "minute": 55,
-        "color": 2,
-        "roll": 11
-    },
-    {
-        "id": "MerW59RekX",
-        "minute": 55,
-        "color": 2,
-        "roll": 11
-    },
-    {
-        "id": "N8r2XLGDkb",
-        "minute": 55,
-        "color": 2,
-        "roll": 8
-    },
-    {
-        "id": "Y8kGgDKdkZ",
-        "minute": 56,
-        "color": 1,
-        "roll": 1
-    },
-    {
-        "id": "DV1azbBMke",
-        "minute": 56,
-        "color": 2,
-        "roll": 12
-    },
-    {
-        "id": "JblRgdqnrO",
-        "minute": 57,
-        "color": 1,
-        "roll": 3
-    },
-    {
-        "id": "AKl5XE5jk9",
-        "minute": 57,
-        "color": 1,
-        "roll": 5
-    },
-    {
-        "id": "O2l4PNRyln",
-        "minute": 58,
-        "color": 1,
-        "roll": 1
-    },
-    {
-        "id": "8Lkn0xNwr3",
-        "minute": 58,
-        "color": 1,
-        "roll": 5
-    },
-    {
-        "id": "eRlvndWwlj",
-        "minute": 59,
-        "color": 2,
-        "roll": 8
-    },
-    {
-        "id": "04lQgY8y1n",
-        "minute": 59,
-        "color": 1,
-        "roll": 5
-    },
-    {
-        "id": "zokg57YXry",
-        "minute": 0,
-        "color": 1,
-        "roll": 7
-    },
-    {
-        "id": "4J1mge9elj",
-        "minute": 0,
-        "color": 1,
-        "roll": 3
-    },
-    {
-        "id": "Jw1D76YxrE",
-        "minute": 1,
-        "color": 0,
-        "roll": 0
-    },
-    {
-        "id": "o5rVmLaylK",
-        "minute": 1,
-        "color": 2,
-        "roll": 13
-    },
-    {
-        "id": "2O1BQDb2rK",
-        "minute": 2,
-        "color": 2,
-        "roll": 10
-    },
-    {
-        "id": "YArwzO2Elz",
-        "minute": 3,
-        "color": 1,
-        "roll": 3
-    },
-    {
-        "id": "pJ1oQ0Edld",
-        "minute": 3,
-        "color": 2,
-        "roll": 8
-    },
-    {
-        "id": "KV16wP4VkB",
-        "minute": 4,
-        "color": 2,
-        "roll": 8
-    },
-    {
-        "id": "96rXwN5ZlO",
-        "minute": 4,
-        "color": 1,
-        "roll": 6
-    },
-    {
-        "id": "mDlZKPnyrj",
-        "minute": 5,
-        "color": 1,
-        "roll": 6
-    },
-    {
-        "id": "9YrJyD9YlK",
-        "minute": 5,
-        "color": 1,
-        "roll": 7
-    },
-    {
-        "id": "jxrMYAPzrQ",
-        "minute": 6,
-        "color": 2,
-        "roll": 12
-    },
-    {
-        "id": "LKl3D9aprN",
-        "minute": 6,
-        "color": 2,
-        "roll": 10
-    },
-    {
-        "id": "WplznLRyln",
-        "minute": 7,
-        "color": 1,
-        "roll": 5
-    },
-    {
-        "id": "yAlA6BzgrG",
-        "minute": 7,
-        "color": 1,
-        "roll": 6
-    },
-    {
-        "id": "3Ery87aGlj",
-        "minute": 8,
-        "color": 2,
-        "roll": 9
-    },
-    {
-        "id": "KRkbvpj2kL",
-        "minute": 8,
-        "color": 1,
-        "roll": 3
-    },
-    {
-        "id": "GR1pV8PPl5",
-        "minute": 9,
-        "color": 2,
-        "roll": 12
-    },
-    {
-        "id": "3elY5E4JlL",
-        "minute": 9,
-        "color": 1,
-        "roll": 6
-    },
-    {
-        "id": "OWldgdynk3",
-        "minute": 10,
-        "color": 1,
-        "roll": 5
-    },
-    {
-        "id": "AXlO0bxmrO",
-        "minute": 10,
-        "color": 1,
-        "roll": 5
-    },
-    {
-        "id": "M9rKLjNX16",
-        "minute": 11,
-        "color": 2,
-        "roll": 8
-    },
-    {
-        "id": "WG17DenXkZ",
-        "minute": 11,
-        "color": 2,
-        "roll": 10
-    },
-    {
-        "id": "BylL93EWrG",
-        "minute": 12,
-        "color": 2,
-        "roll": 10
-    },
-    {
-        "id": "gM19D0zErA",
-        "minute": 12,
-        "color": 2,
-        "roll": 14
-    },
-    {
-        "id": "xmlNLyev1v",
-        "minute": 13,
-        "color": 2,
-        "roll": 8
-    },
-    {
-        "id": "yAlA6BJ5rG",
-        "minute": 13,
-        "color": 2,
-        "roll": 8
-    },
-    {
-        "id": "3Ery87QVlj",
-        "minute": 14,
-        "color": 1,
-        "roll": 2
-    },
-    {
-        "id": "KRkbvpdvkL",
-        "minute": 14,
-        "color": 2,
-        "roll": 10
-    },
-    {
-        "id": "GR1pV8Wml5",
-        "minute": 15,
-        "color": 1,
-        "roll": 5
-    },
-    {
-        "id": "3elY5EJwlL",
-        "minute": 15,
-        "color": 1,
-        "roll": 6
-    },
-    {
-        "id": "OWldgdK8k3",
-        "minute": 16,
-        "color": 2,
-        "roll": 13
-    },
-    {
-        "id": "AXlO0bJ9rO",
-        "minute": 16,
-        "color": 1,
-        "roll": 1
-    },
-    {
-        "id": "M9rKLjJa16",
-        "minute": 17,
-        "color": 2,
-        "roll": 13
-    },
-    {
-        "id": "WG17DejAkZ",
-        "minute": 17,
-        "color": 0,
-        "roll": 0
-    },
-    {
-        "id": "BylL93JyrG",
-        "minute": 18,
-        "color": 1,
-        "roll": 5
-    },
-    {
-        "id": "gM19D0JerA",
-        "minute": 18,
-        "color": 2,
-        "roll": 11
-    },
-    {
-        "id": "xmlNLyJX1v",
-        "minute": 19,
-        "color": 2,
-        "roll": 11
-    },
-    {
-        "id": "7dlEADJ6lv",
-        "minute": 19,
-        "color": 2,
-        "roll": 14
-    },
-    {
-        "id": "QqlPopJ5kz",
-        "minute": 20,
-        "color": 1,
-        "roll": 7
-    },
-    {
-        "id": "EV1egO7wlo",
-        "minute": 20,
-        "color": 2,
-        "roll": 11
-    },
-    {
-        "id": "Nz1xZKvWlp",
-        "minute": 21,
-        "color": 2,
-        "roll": 9
-    },
-    {
-        "id": "V5k0JKvmrY",
-        "minute": 21,
-        "color": 1,
-        "roll": 2
-    },
-    {
-        "id": "vRl8oxw6kK",
-        "minute": 22,
-        "color": 2,
-        "roll": 8
-    },
-    {
-        "id": "3V1qXA2ArB",
-        "minute": 22,
-        "color": 0,
-        "roll": 0
-    },
-    {
-        "id": "MerW59JxkX",
-        "minute": 23,
-        "color": 2,
-        "roll": 8
-    },
-    {
-        "id": "N8r2XLg3kb",
-        "minute": 23,
-        "color": 0,
-        "roll": 0
-    },
-    {
-        "id": "Y8kGgDJBkZ",
-        "minute": 24,
-        "color": 1,
-        "roll": 1
-    },
-    {
-        "id": "DV1azbY6ke",
-        "minute": 24,
-        "color": 1,
-        "roll": 3
-    },
-    {
-        "id": "JblRgdJorO",
-        "minute": 25,
-        "color": 2,
-        "roll": 13
-    },
-    {
-        "id": "AKl5XEVBk9",
-        "minute": 25,
-        "color": 1,
-        "roll": 2
-    },
-    {
-        "id": "O2l4PNDVln",
-        "minute": 26,
-        "color": 1,
-        "roll": 2
-    },
-    {
-        "id": "8Lkn0x87r3",
-        "minute": 26,
-        "color": 2,
-        "roll": 12
-    },
-    {
-        "id": "eRlvnd4blj",
-        "minute": 27,
-        "color": 1,
-        "roll": 7
-    },
-    {
-        "id": "04lQgYJN1n",
-        "minute": 27,
-        "color": 1,
-        "roll": 5
-    },
-    {
-        "id": "zokg579ary",
-        "minute": 28,
-        "color": 1,
-        "roll": 2
-    },
-    {
-        "id": "4J1mge0ylj",
-        "minute": 28,
-        "color": 2,
-        "roll": 9
-    },
-    {
-        "id": "Jw1D76JLrE",
-        "minute": 29,
-        "color": 1,
-        "roll": 3
-    },
-    {
-        "id": "o5rVmLJqlK",
-        "minute": 29,
-        "color": 2,
-        "roll": 11
-    },
-    {
-        "id": "2O1BQDJVrK",
-        "minute": 30,
-        "color": 2,
-        "roll": 12
-    },
-    {
-        "id": "4ekjgNPQl9",
-        "minute": 30,
-        "color": 2,
-        "roll": 12
-    },
-    {
-        "id": "YArwzOn2lz",
-        "minute": 31,
-        "color": 1,
-        "roll": 3
-    },
-    {
-        "id": "pJ1oQ0qqld",
-        "minute": 31,
-        "color": 1,
-        "roll": 1
-    },
-    {
-        "id": "KV16wPBZkB",
-        "minute": 32,
-        "color": 1,
-        "roll": 5
-    },
-    {
-        "id": "96rXwNJ3lO",
-        "minute": 32,
-        "color": 2,
-        "roll": 14
-    },
-    {
-        "id": "mDlZKPJerj",
-        "minute": 33,
-        "color": 1,
-        "roll": 7
-    },
-    {
-        "id": "9YrJyDJMlK",
-        "minute": 33,
-        "color": 2,
-        "roll": 14
-    },
-    {
-        "id": "jxrMYAJ2rQ",
-        "minute": 34,
-        "color": 1,
-        "roll": 1
-    },
-    {
-        "id": "LKl3D9mOrN",
-        "minute": 34,
-        "color": 2,
-        "roll": 14
-    },
-    {
-        "id": "WplznLzgln",
-        "minute": 35,
-        "color": 1,
-        "roll": 6
-    },
-    {
-        "id": "yAlA6BZ5rG",
-        "minute": 35,
-        "color": 1,
-        "roll": 3
-    },
-    {
-        "id": "3Ery879Vlj",
-        "minute": 36,
-        "color": 2,
-        "roll": 9
-    },
-    {
-        "id": "KRkbvpzvkL",
-        "minute": 36,
-        "color": 2,
-        "roll": 10
-    },
-    {
-        "id": "GR1pV8yml5",
-        "minute": 37,
-        "color": 2,
-        "roll": 8
-    },
-    {
-        "id": "3elY5ExwlL",
-        "minute": 37,
-        "color": 1,
-        "roll": 3
-    },
-    {
-        "id": "OWldgdn8k3",
+        "id": "JblRg9oarO",
         "minute": 38,
         "color": 2,
         "roll": 8
     },
     {
-        "id": "AXlO0bd9rO",
-        "minute": 38,
-        "color": 2,
-        "roll": 13
-    },
-    {
-        "id": "M9rKLjya16",
+        "id": "AKl5XAxGk9",
         "minute": 39,
         "color": 1,
-        "roll": 6
+        "roll": 2
     },
     {
-        "id": "WG17DeMAkZ",
-        "minute": 39,
-        "color": 1,
-        "roll": 7
-    },
-    {
-        "id": "BylL93byrG",
+        "id": "eRlvngN8lj",
         "minute": 40,
         "color": 2,
-        "roll": 13
+        "roll": 11
     },
     {
-        "id": "gM19D0ZerA",
-        "minute": 40,
-        "color": 1,
-        "roll": 3
-    },
-    {
-        "id": "xmlNLyYX1v",
+        "id": "04lQgL4b1n",
         "minute": 41,
         "color": 2,
-        "roll": 9
-    },
-    {
-        "id": "7dlEADZ6lv",
-        "minute": 41,
-        "color": 1,
-        "roll": 7
-    },
-    {
-        "id": "QqlPopO5kz",
-        "minute": 42,
-        "color": 1,
-        "roll": 2
-    },
-    {
-        "id": "EV1egOvwlo",
-        "minute": 42,
-        "color": 0,
-        "roll": 0
-    },
-    {
-        "id": "Nz1xZKLWlp",
-        "minute": 43,
-        "color": 2,
         "roll": 14
-    },
-    {
-        "id": "V5k0JKZmrY",
-        "minute": 43,
-        "color": 2,
-        "roll": 14
-    },
-    {
-        "id": "vRl8oxM6kK",
-        "minute": 44,
-        "color": 0,
-        "roll": 0
-    },
-    {
-        "id": "3V1qXAbArB",
-        "minute": 44,
-        "color": 2,
-        "roll": 8
-    },
-    {
-        "id": "MerW59PxkX",
-        "minute": 45,
-        "color": 2,
-        "roll": 10
-    },
-    {
-        "id": "N8r2XLZ3kb",
-        "minute": 45,
-        "color": 1,
-        "roll": 3
-    },
-    {
-        "id": "Y8kGgDZBkZ",
-        "minute": 46,
-        "color": 1,
-        "roll": 4
-    },
-    {
-        "id": "DV1azbR6ke",
-        "minute": 46,
-        "color": 1,
-        "roll": 3
-    },
-    {
-        "id": "JblRgd7orO",
-        "minute": 47,
-        "color": 2,
-        "roll": 13
-    },
-    {
-        "id": "AKl5XEZBk9",
-        "minute": 47,
-        "color": 2,
-        "roll": 14
-    },
-    {
-        "id": "O2l4PNZVln",
-        "minute": 48,
-        "color": 1,
-        "roll": 4
-    },
-    {
-        "id": "8Lkn0xo7r3",
-        "minute": 48,
-        "color": 1,
-        "roll": 5
-    },
-    {
-        "id": "eRlvndKblj",
-        "minute": 49,
-        "color": 2,
-        "roll": 12
-    },
-    {
-        "id": "04lQgYKN1n",
-        "minute": 49,
-        "color": 0,
-        "roll": 0
-    },
-    {
-        "id": "zokg57gary",
-        "minute": 50,
-        "color": 0,
-        "roll": 0
-    },
-    {
-        "id": "4J1mgewylj",
-        "minute": 50,
-        "color": 1,
-        "roll": 2
-    },
-    {
-        "id": "Jw1D76ZLrE",
-        "minute": 51,
-        "color": 2,
-        "roll": 13
-    },
-    {
-        "id": "o5rVmLEqlK",
-        "minute": 51,
-        "color": 2,
-        "roll": 13
-    },
-    {
-        "id": "2O1BQDZVrK",
-        "minute": 52,
-        "color": 2,
-        "roll": 9
-    },
-    {
-        "id": "4ekjgNVQl9",
-        "minute": 53,
-        "color": 2,
-        "roll": 10
-    },
-    {
-        "id": "YArwzO72lz",
-        "minute": 53,
-        "color": 1,
-        "roll": 7
-    },
-    {
-        "id": "pJ1oQ0Aqld",
-        "minute": 54,
-        "color": 2,
-        "roll": 8
-    },
-    {
-        "id": "KV16wPZZkB",
-        "minute": 54,
-        "color": 2,
-        "roll": 12
-    },
-    {
-        "id": "96rXwNe3lO",
-        "minute": 55,
-        "color": 1,
-        "roll": 1
-    },
-    {
-        "id": "mDlZKP0erj",
-        "minute": 55,
-        "color": 2,
-        "roll": 13
-    },
-    {
-        "id": "9YrJyDAMlK",
-        "minute": 56,
-        "color": 1,
-        "roll": 5
-    },
-    {
-        "id": "jxrMYAp2rQ",
-        "minute": 56,
-        "color": 2,
-        "roll": 9
-    },
-    {
-        "id": "LKl3D9ZOrN",
-        "minute": 57,
-        "color": 2,
-        "roll": 9
-    },
-    {
-        "id": "WplznLNgln",
-        "minute": 57,
-        "color": 2,
-        "roll": 14
-    },
-    {
-        "id": "yAlA6B05rG",
-        "minute": 58,
-        "color": 1,
-        "roll": 3
-    },
-    {
-        "id": "3Ery873Vlj",
-        "minute": 58,
-        "color": 1,
-        "roll": 4
-    },
-    {
-        "id": "KRkbvp3vkL",
-        "minute": 59,
-        "color": 1,
-        "roll": 5
-    },
-    {
-        "id": "GR1pV83ml5",
-        "minute": 59,
-        "color": 2,
-        "roll": 14
-    },
-    {
-        "id": "3elY5E3wlL",
-        "minute": 0,
-        "color": 2,
-        "roll": 9
-    },
-    {
-        "id": "OWldgd38k3",
-        "minute": 0,
-        "color": 1,
-        "roll": 5
-    },
-    {
-        "id": "AXlO0bm9rO",
-        "minute": 1,
-        "color": 1,
-        "roll": 6
-    },
-    {
-        "id": "WG17DeOAkZ",
-        "minute": 2,
-        "color": 0,
-        "roll": 0
-    },
-    {
-        "id": "BylL93vyrG",
-        "minute": 2,
-        "color": 2,
-        "roll": 11
-    },
-    {
-        "id": "gM19D07erA",
-        "minute": 3,
-        "color": 1,
-        "roll": 3
-    },
-    {
-        "id": "xmlNLygX1v",
-        "minute": 3,
-        "color": 2,
-        "roll": 14
-    },
-    {
-        "id": "yAlA6B0LrG",
-        "minute": 4,
-        "color": 2,
-        "roll": 11
-    },
-    {
-        "id": "3Ery873zlj",
-        "minute": 4,
-        "color": 2,
-        "roll": 14
-    },
-    {
-        "id": "KRkbvp3VkL",
-        "minute": 5,
-        "color": 1,
-        "roll": 2
-    },
-    {
-        "id": "GR1pV83Zl5",
-        "minute": 5,
-        "color": 1,
-        "roll": 4
-    },
-    {
-        "id": "3elY5E3LlL",
-        "minute": 6,
-        "color": 1,
-        "roll": 1
-    },
-    {
-        "id": "OWldgd3Xk3",
-        "minute": 6,
-        "color": 2,
-        "roll": 12
-    },
-    {
-        "id": "AXlO0bmbrO",
-        "minute": 7,
-        "color": 2,
-        "roll": 9
-    },
-    {
-        "id": "M9rKLjnp16",
-        "minute": 7,
-        "color": 1,
-        "roll": 7
-    },
-    {
-        "id": "WG17DeO3kZ",
-        "minute": 8,
-        "color": 1,
-        "roll": 7
-    },
-    {
-        "id": "BylL93vBrG",
-        "minute": 8,
-        "color": 1,
-        "roll": 5
-    },
-    {
-        "id": "gM19D078rA",
-        "minute": 9,
-        "color": 1,
-        "roll": 1
-    },
-    {
-        "id": "xmlNLyg41v",
-        "minute": 9,
-        "color": 1,
-        "roll": 6
-    },
-    {
-        "id": "7dlEAD2Nlv",
-        "minute": 10,
-        "color": 1,
-        "roll": 7
-    },
-    {
-        "id": "QqlPopzWkz",
-        "minute": 10,
-        "color": 1,
-        "roll": 1
-    },
-    {
-        "id": "EV1egO3Zlo",
-        "minute": 11,
-        "color": 2,
-        "roll": 11
-    },
-    {
-        "id": "Nz1xZK3Ylp",
-        "minute": 11,
-        "color": 1,
-        "roll": 4
-    },
-    {
-        "id": "V5k0JK6OrY",
-        "minute": 12,
-        "color": 2,
-        "roll": 13
-    },
-    {
-        "id": "vRl8oxKYkK",
-        "minute": 12,
-        "color": 1,
-        "roll": 6
-    },
-    {
-        "id": "3V1qXA3drB",
-        "minute": 13,
-        "color": 0,
-        "roll": 0
-    },
-    {
-        "id": "MerW593QkX",
-        "minute": 13,
-        "color": 1,
-        "roll": 3
-    },
-    {
-        "id": "N8r2XLyzkb",
-        "minute": 14,
-        "color": 2,
-        "roll": 9
-    },
-    {
-        "id": "Y8kGgDaYkZ",
-        "minute": 14,
-        "color": 2,
-        "roll": 8
-    },
-    {
-        "id": "DV1azb3Wke",
-        "minute": 15,
-        "color": 1,
-        "roll": 7
-    },
-    {
-        "id": "JblRgdBqrO",
-        "minute": 15,
-        "color": 0,
-        "roll": 0
-    },
-    {
-        "id": "AKl5XEYVk9",
-        "minute": 16,
-        "color": 2,
-        "roll": 13
-    },
-    {
-        "id": "O2l4PNpZln",
-        "minute": 16,
-        "color": 1,
-        "roll": 6
-    },
-    {
-        "id": "8Lkn0x33r3",
-        "minute": 17,
-        "color": 1,
-        "roll": 5
-    },
-    {
-        "id": "eRlvnd3plj",
-        "minute": 17,
-        "color": 1,
-        "roll": 5
-    },
-    {
-        "id": "04lQgYVM1n",
-        "minute": 18,
-        "color": 1,
-        "roll": 1
-    },
-    {
-        "id": "zokg573dry",
-        "minute": 18,
-        "color": 2,
-        "roll": 14
-    },
-    {
-        "id": "4J1mge3alj",
-        "minute": 19,
-        "color": 1,
-        "roll": 6
-    },
-    {
-        "id": "Jw1D76WKrE",
-        "minute": 19,
-        "color": 1,
-        "roll": 1
-    },
-    {
-        "id": "o5rVmL9NlK",
-        "minute": 20,
-        "color": 1,
-        "roll": 5
-    },
-    {
-        "id": "2O1BQDgRrK",
-        "minute": 20,
-        "color": 1,
-        "roll": 5
-    },
-    {
-        "id": "4ekjgNmgl9",
-        "minute": 21,
-        "color": 1,
-        "roll": 4
-    },
-    {
-        "id": "YArwzOY0lz",
-        "minute": 21,
-        "color": 2,
-        "roll": 12
-    },
-    {
-        "id": "pJ1oQ0wold",
-        "minute": 22,
-        "color": 1,
-        "roll": 5
-    },
-    {
-        "id": "KV16wP8gkB",
-        "minute": 22,
-        "color": 1,
-        "roll": 1
-    },
-    {
-        "id": "96rXwNEdlO",
-        "minute": 23,
-        "color": 2,
-        "roll": 11
-    },
-    {
-        "id": "mDlZKPewrj",
-        "minute": 23,
-        "color": 1,
-        "roll": 4
-    },
-    {
-        "id": "9YrJyD6elK",
-        "minute": 24,
-        "color": 2,
-        "roll": 10
-    },
-    {
-        "id": "jxrMYAybrQ",
-        "minute": 24,
-        "color": 2,
-        "roll": 13
-    },
-    {
-        "id": "LKl3D9eYrN",
-        "minute": 25,
-        "color": 1,
-        "roll": 5
-    },
-    {
-        "id": "WplznLKbln",
-        "minute": 25,
-        "color": 2,
-        "roll": 11
-    },
-    {
-        "id": "yAlA6BQLrG",
-        "minute": 26,
-        "color": 2,
-        "roll": 14
-    },
-    {
-        "id": "3Ery87Ozlj",
-        "minute": 26,
-        "color": 1,
-        "roll": 6
-    },
-    {
-        "id": "KRkbvpaVkL",
-        "minute": 27,
-        "color": 2,
-        "roll": 14
-    },
-    {
-        "id": "GR1pV8oZl5",
-        "minute": 27,
-        "color": 2,
-        "roll": 12
     }
 ]
